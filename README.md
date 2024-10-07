@@ -33,7 +33,7 @@ Este projeto em Java simula um sistema de gerenciamento de **livros** e **pessoa
    ```
 
 2. **Executar o projeto:**
-   Para executar a aplicação Swing com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
+   Para executar a aplicação com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
 
    ```bash
    mvn exec:java
